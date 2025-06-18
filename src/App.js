@@ -8,6 +8,8 @@ import StallSelection from './components/StallSelection';
 import StallDashboard from './components/StallDashboard';
 import SalesOverview from './components/SalesOverview';
 import UserSales from './components/UserSales';
+import Magazyn from './components/Magazyn';
+import Statystyki from './components/Statystyki';
 import SpeciesSelection from './components/SpeciesSelection';
 import SizeSelection from './components/SizeSelection';
 import PriceSelection from './components/PriceSelection';
@@ -46,6 +48,16 @@ function App() {
               <ProtectedRoute>
                 <UserSales />
               </ProtectedRoute>
+            } />
+             <Route path="/stall/:stallId/magazyn" element={
+              <ProtectedRoute>
+                <Magazyn />
+              </ProtectedRoute>
+            } />
+             <Route path="/stall/:stallId/statystyki" element={
+              <ProtectedRoute>
+               <Statystyki />
+             </ProtectedRoute>
             } />
             <Route path="/stall/:stallId/add-sale/species" element={
               <ProtectedRoute>
