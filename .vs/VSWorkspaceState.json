@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components"
   ],
-  "SelectedNode": "\\C:\\Users\\mikol\\source\\repos\\market-app",
+  "SelectedNode": "\\src\\components\\UserSales.js",
   "PreviewInSolutionExplorer": false
 }
