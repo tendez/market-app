@@ -1,5 +1,4 @@
-﻿
-import React, { useState, useEffect, useCallback } from 'react';
+﻿import React, { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import axios from 'axios';
 
@@ -13,6 +12,7 @@ const PriceSelection = () => {
     const [success, setSuccess] = useState('');
     const [speciesName, setSpeciesName] = useState('');
     const [sizeName, setSizeName] = useState('');
+    const [stock, setStock] = useState(null);
 
     const selectedSpecies = location.state?.selectedSpecies;
     const selectedSize = location.state?.selectedSize;
@@ -30,19 +30,45 @@ const PriceSelection = () => {
         }
     }, [selectedSpecies, selectedSize]);
 
+    // Pobierz stan magazynu dla wybranej kombinacji
+    const fetchStock = useCallback(async () => {
+        try {
+            const response = await axios.get(`/api/v1/magazyn/${stallId}`);
+            const item = response.data.find(
+                m => m.gatunekId === selectedSpecies && m.wielkoscId === selectedSize
+            );
+            setStock(item ? item.ilosc : 0);
+        } catch (error) {
+            setStock(null);
+        }
+    }, [stallId, selectedSpecies, selectedSize]);
+
     useEffect(() => {
         if (!selectedSpecies || !selectedSize) {
             navigate(`/stall/${stallId}/add-sale/species`);
             return;
         }
         fetchNames();
-    }, [selectedSpecies, selectedSize, stallId, navigate, fetchNames]);
+        fetchStock();
+    }, [selectedSpecies, selectedSize, stallId, navigate, fetchNames, fetchStock]);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         setLoading(true);
         setError('');
         setSuccess('');
+
+        // Sprawdź stan magazynu przed próbą sprzedaży
+        if (stock === null) {
+            setError('Nie można sprawdzić stanu magazynu. Spróbuj ponownie.');
+            setLoading(false);
+            return;
+        }
+        if (stock < 1) {
+            setError('❌ Brak wybranej choinki w magazynie tego stoiska!');
+            setLoading(false);
+            return;
+        }
 
         try {
             await axios.post('/api/v1/sprzedaz', {
@@ -53,14 +79,21 @@ const PriceSelection = () => {
             });
 
             setSuccess(`✅ Świetnie! Sprzedaż została pomyślnie dodana do systemu.`);
-
-            // Przekieruj po 2 sekundach
             setTimeout(() => {
                 navigate(`/stall/${stallId}`);
             }, 2000);
 
         } catch (error) {
-            setError('❌ Ups! Wystąpił problem podczas dodawania sprzedaży. Spróbuj ponownie.');
+            if (
+                error.response &&
+                error.response.data &&
+                error.response.data.message &&
+                error.response.data.message.includes('magazynie')
+            ) {
+                setError('❌ Brak wybranej choinki w magazynie!');
+            } else {
+                setError('❌ Ups! Wystąpił problem podczas dodawania sprzedaży. Spróbuj ponownie.');
+            }
             console.error('Błąd dodawania sprzedaży:', error);
         } finally {
             setLoading(false);
@@ -86,6 +119,10 @@ const PriceSelection = () => {
                     <p><strong>Gatunek:</strong> {speciesName || `ID: ${selectedSpecies}`}</p>
                     <p><strong>Rozmiar:</strong> {sizeName || `ID: ${selectedSize}`}</p>
                     <p><strong>Stoisko ID:</strong> {stallId}</p>
+                    <p>
+                        <strong>Dostępne w magazynie:</strong>{' '}
+                        {stock === null ? '...' : stock}
+                    </p>
                 </div>
 
                 {error && <div className="error-message">{error}</div>}

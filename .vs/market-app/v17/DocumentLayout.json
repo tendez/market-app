@@ -1,70 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mikol\\source\\repos\\market-app\\",
+  "WorkspaceRootPath": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\UserSales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UserSales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Statystyki.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Statystyki.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\StallDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\StallSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SizeSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SizeSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SpeciesSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SpeciesSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SalesOverview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SalesOverview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\PriceSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PriceSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Magazyn.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Magazyn.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\UserSales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UserSales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\src\\context\\AuthContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\StallDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\StallSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\context\\AuthContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\AuthContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mikol\\source\\repos\\market-app\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SalesOverview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SalesOverview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\PriceSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\PriceSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SpeciesSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SpeciesSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SizeSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SizeSelection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,41 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Statystyki.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Statystyki.js",
-              "RelativeDocumentMoniker": "src\\components\\Statystyki.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Statystyki.js",
-              "RelativeToolTip": "src\\components\\Statystyki.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-18T20:31:08.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Magazyn.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Magazyn.js",
-              "RelativeDocumentMoniker": "src\\components\\Magazyn.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Magazyn.js",
-              "RelativeToolTip": "src\\components\\Magazyn.js",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-18T20:30:49.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\public\\index.html",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\public\\index.html",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\public\\index.html",
               "RelativeToolTip": "public\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -116,39 +82,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.css",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.css",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.css",
               "RelativeToolTip": "src\\App.css",
-              "ViewState": "AgIAAEcEAAAAAAAAAAAgwIUEAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-15T20:52:26.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ProtectedRoute.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\ProtectedRoute.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\ProtectedRoute.js",
               "RelativeDocumentMoniker": "src\\components\\ProtectedRoute.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\ProtectedRoute.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\ProtectedRoute.js",
               "RelativeToolTip": "src\\components\\ProtectedRoute.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:52:15.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:52:15.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserSales.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\UserSales.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\UserSales.js",
               "RelativeDocumentMoniker": "src\\components\\UserSales.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\UserSales.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\UserSales.js",
               "RelativeToolTip": "src\\components\\UserSales.js",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-15T20:52:01.716Z",
               "EditorCaption": ""
@@ -157,113 +122,105 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SalesOverview.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SalesOverview.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SalesOverview.js",
               "RelativeDocumentMoniker": "src\\components\\SalesOverview.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SalesOverview.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SalesOverview.js",
               "RelativeToolTip": "src\\components\\SalesOverview.js",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:51:48.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:51:48.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PriceSelection.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\PriceSelection.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\PriceSelection.js",
               "RelativeDocumentMoniker": "src\\components\\PriceSelection.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\PriceSelection.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\PriceSelection.js",
               "RelativeToolTip": "src\\components\\PriceSelection.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:51:29.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:51:29.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "SizeSelection.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SizeSelection.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SizeSelection.js",
               "RelativeDocumentMoniker": "src\\components\\SizeSelection.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SizeSelection.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SizeSelection.js",
               "RelativeToolTip": "src\\components\\SizeSelection.js",
               "ViewState": "AgIAACoAAAAAAAAAAAAowDIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:51:13.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:51:13.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "SpeciesSelection.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SpeciesSelection.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SpeciesSelection.js",
               "RelativeDocumentMoniker": "src\\components\\SpeciesSelection.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\SpeciesSelection.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\SpeciesSelection.js",
               "RelativeToolTip": "src\\components\\SpeciesSelection.js",
               "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:50:56.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:50:56.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StallDashboard.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallDashboard.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallDashboard.js",
               "RelativeDocumentMoniker": "src\\components\\StallDashboard.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallDashboard.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallDashboard.js",
               "RelativeToolTip": "src\\components\\StallDashboard.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAtwFgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:50:32.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:50:32.669Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StallSelection.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallSelection.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallSelection.js",
               "RelativeDocumentMoniker": "src\\components\\StallSelection.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\StallSelection.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\StallSelection.js",
               "RelativeToolTip": "src\\components\\StallSelection.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:50:17.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:50:17.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Dashboard.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Dashboard.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Dashboard.js",
               "RelativeDocumentMoniker": "src\\components\\Dashboard.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Dashboard.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Dashboard.js",
               "RelativeToolTip": "src\\components\\Dashboard.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:50:00.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:50:00.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Login.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Login.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Login.js",
               "RelativeDocumentMoniker": "src\\components\\Login.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\components\\Login.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\components\\Login.js",
               "RelativeToolTip": "src\\components\\Login.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:49:42.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T20:49:42.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "AuthContext.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\context\\AuthContext.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\context\\AuthContext.js",
               "RelativeDocumentMoniker": "src\\context\\AuthContext.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\context\\AuthContext.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\context\\AuthContext.js",
               "RelativeToolTip": "src\\context\\AuthContext.js",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -271,20 +228,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "App.js",
-              "DocumentMoniker": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.js",
+              "DocumentMoniker": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.js",
               "RelativeDocumentMoniker": "src\\App.js",
-              "ToolTip": "C:\\Users\\mikol\\source\\repos\\market-app\\src\\App.js",
+              "ToolTip": "C:\\Users\\plant\\source\\repos\\tendez\\market-app\\src\\App.js",
               "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T20:26:58.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-06-15T20:26:58.438Z"
             }
           ]
         }
